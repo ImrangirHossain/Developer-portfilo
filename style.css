@@ -24,6 +24,7 @@ p{
 }
 .harf-width img{
     width: 80%;
+    padding-top: 15px;
 }
 .harf-width a{
     text-decoration: none;
